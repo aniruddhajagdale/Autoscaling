@@ -1,0 +1,11 @@
+# Prerequisites
+*.d
+
+# Executables
+*.exe
+*.out
+*.app
+*.json
+*.tfstate
+*.backup
+*.sh
